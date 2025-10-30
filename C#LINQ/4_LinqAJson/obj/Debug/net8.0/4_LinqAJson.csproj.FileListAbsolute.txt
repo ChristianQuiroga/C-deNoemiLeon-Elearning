@@ -1,0 +1,17 @@
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\4_LinqAJson\bin\Debug\net8.0\4_LinqAJson.exe
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\4_LinqAJson\bin\Debug\net8.0\4_LinqAJson.deps.json
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\4_LinqAJson\bin\Debug\net8.0\4_LinqAJson.runtimeconfig.json
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\4_LinqAJson\bin\Debug\net8.0\4_LinqAJson.dll
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\4_LinqAJson\bin\Debug\net8.0\4_LinqAJson.pdb
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\4_LinqAJson\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\4_LinqAJson\obj\Debug\net8.0\4_LinqAJson.csproj.AssemblyReference.cache
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\4_LinqAJson\obj\Debug\net8.0\4_LinqAJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\4_LinqAJson\obj\Debug\net8.0\4_LinqAJson.AssemblyInfoInputs.cache
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\4_LinqAJson\obj\Debug\net8.0\4_LinqAJson.AssemblyInfo.cs
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\4_LinqAJson\obj\Debug\net8.0\4_LinqAJson.csproj.CoreCompileInputs.cache
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\4_LinqAJson\obj\Debug\net8.0\4_LinqAJ.C1BE67CD.Up2Date
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\4_LinqAJson\obj\Debug\net8.0\4_LinqAJson.dll
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\4_LinqAJson\obj\Debug\net8.0\refint\4_LinqAJson.dll
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\4_LinqAJson\obj\Debug\net8.0\4_LinqAJson.pdb
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\4_LinqAJson\obj\Debug\net8.0\4_LinqAJson.genruntimeconfig.cache
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\4_LinqAJson\obj\Debug\net8.0\ref\4_LinqAJson.dll

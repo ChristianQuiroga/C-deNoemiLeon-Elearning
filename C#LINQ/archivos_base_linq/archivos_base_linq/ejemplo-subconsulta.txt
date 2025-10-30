@@ -1,0 +1,59 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+
+
+namespace ConsoleApp1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            List<Empleado> empleados = new List<Empleado>()
+            {
+                new Empleado {
+                    Nombre = "Daniela",
+                    Apellido = "Pérez",//5
+                    Departamento = Departamento.Desarrollo
+                },
+                new Empleado {
+                    Nombre = "José",
+                    Apellido = "Lima Rico",//9
+                    Departamento = Departamento.Admin
+                },
+                 new Empleado {
+                    Nombre = "Fernanda",
+                    Apellido = "Vega Valle",//10
+                    Departamento = Departamento.Desarrollo
+                },
+                  new Empleado {
+                    Nombre = "Fabiola",
+                    Apellido = "Cortés Vázquez",//14
+                    Departamento = Departamento.Desarrollo
+                },
+                   new Empleado {
+                    Nombre = "Mónica",
+                    Apellido = "Correa",//6
+                    Departamento = Departamento.Soporte
+                },
+            };
+            var subq = empleados.Where(e => e.Apellido.Split()
+            .LastOrDefault().StartsWith("V"));
+
+            var encabezado = string.Format("{0,-20} {1,-20} {2}",
+                            "Nombre", "Apellido", "Codigo Depto");
+            Console.WriteLine(encabezado);
+
+            foreach (var f in subq)
+            {
+                string fila = string.Format("{0,-20} {1,-20} {2}",
+                    f.Nombre, f.Apellido, f.Departamento);
+                Console.WriteLine(fila);
+            }
+
+           
+
+
+        }
+    }
+}

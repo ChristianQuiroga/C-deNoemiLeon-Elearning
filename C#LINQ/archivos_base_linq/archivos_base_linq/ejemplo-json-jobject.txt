@@ -1,0 +1,30 @@
+using Newtonsoft.Json;
+using Newtonsoft.Json.Linq;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+
+
+namespace ConsoleApp1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            JObject obj = JObject.Parse(@"{
+              'nombre': 'Jonh Doe',
+              'nivel': 'Junior',
+              'edad': 25,
+              'lenguajes': [ '.NET', 'PHP' ]
+            }");
+            string nivel = (string)obj["nivel"];
+            Console.WriteLine(nivel);
+
+            IList<string> lenguajes = obj["lenguajes"].Select(l => (string)l).ToList();
+            foreach(var l in lenguajes)
+            {
+                Console.WriteLine(l);
+            }
+        }
+    }
+}

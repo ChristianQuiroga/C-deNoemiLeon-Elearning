@@ -1,0 +1,29 @@
+using System;
+using System.Linq;
+
+
+namespace ConsoleApp1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string[] niveles = { "Basico", "Intermedio", "Avanzado" };
+            var nc = niveles.Count();
+            int max = 6;
+
+            var ns = niveles.Where(n => n.Length > max).OrderBy(no => no);
+            foreach (var n in ns)
+            {
+                Console.WriteLine(n);
+            }
+            var qn =
+               from nivel in niveles
+               where nivel.Length > max
+               orderby nivel ascending
+               select nivel;
+
+
+        }
+    }
+}

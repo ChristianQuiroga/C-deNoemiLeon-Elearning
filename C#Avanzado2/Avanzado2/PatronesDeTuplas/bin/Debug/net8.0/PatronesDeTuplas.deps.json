@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PatronesDeTuplas/1.0.0": {
+        "runtime": {
+          "PatronesDeTuplas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PatronesDeTuplas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

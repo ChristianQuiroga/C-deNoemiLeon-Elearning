@@ -1,0 +1,7 @@
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado2\Avanzado2\4ConcuAsincTareasExcepTareas\bin\Debug\4ConcuAsincTareasExcepTareas.exe.config
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado2\Avanzado2\4ConcuAsincTareasExcepTareas\bin\Debug\4ConcuAsincTareasExcepTareas.exe
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado2\Avanzado2\4ConcuAsincTareasExcepTareas\bin\Debug\4ConcuAsincTareasExcepTareas.pdb
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado2\Avanzado2\4ConcuAsincTareasExcepTareas\obj\Debug\4ConcuAsincTareasExcepTareas.csproj.AssemblyReference.cache
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado2\Avanzado2\4ConcuAsincTareasExcepTareas\obj\Debug\4ConcuAsincTareasExcepTareas.csproj.CoreCompileInputs.cache
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado2\Avanzado2\4ConcuAsincTareasExcepTareas\obj\Debug\4ConcuAsincTareasExcepTareas.exe
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado2\Avanzado2\4ConcuAsincTareasExcepTareas\obj\Debug\4ConcuAsincTareasExcepTareas.pdb

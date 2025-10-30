@@ -1,0 +1,7 @@
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado2\Avanzado2\Avanzado2\bin\Debug\Avanzado2.exe.config
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado2\Avanzado2\Avanzado2\bin\Debug\Avanzado2.exe
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado2\Avanzado2\Avanzado2\bin\Debug\Avanzado2.pdb
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado2\Avanzado2\Avanzado2\obj\Debug\Avanzado2.csproj.AssemblyReference.cache
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado2\Avanzado2\Avanzado2\obj\Debug\Avanzado2.csproj.CoreCompileInputs.cache
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado2\Avanzado2\Avanzado2\obj\Debug\Avanzado2.exe
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado2\Avanzado2\Avanzado2\obj\Debug\Avanzado2.pdb

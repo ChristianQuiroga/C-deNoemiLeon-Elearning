@@ -1,0 +1,14 @@
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\3_5OperadoresJoin\bin\Debug\net8.0\3_5OperadoresJoin.exe
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\3_5OperadoresJoin\bin\Debug\net8.0\3_5OperadoresJoin.deps.json
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\3_5OperadoresJoin\bin\Debug\net8.0\3_5OperadoresJoin.runtimeconfig.json
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\3_5OperadoresJoin\bin\Debug\net8.0\3_5OperadoresJoin.dll
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\3_5OperadoresJoin\bin\Debug\net8.0\3_5OperadoresJoin.pdb
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\3_5OperadoresJoin\obj\Debug\net8.0\3_5OperadoresJoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\3_5OperadoresJoin\obj\Debug\net8.0\3_5OperadoresJoin.AssemblyInfoInputs.cache
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\3_5OperadoresJoin\obj\Debug\net8.0\3_5OperadoresJoin.AssemblyInfo.cs
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\3_5OperadoresJoin\obj\Debug\net8.0\3_5OperadoresJoin.csproj.CoreCompileInputs.cache
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\3_5OperadoresJoin\obj\Debug\net8.0\3_5OperadoresJoin.dll
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\3_5OperadoresJoin\obj\Debug\net8.0\refint\3_5OperadoresJoin.dll
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\3_5OperadoresJoin\obj\Debug\net8.0\3_5OperadoresJoin.pdb
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\3_5OperadoresJoin\obj\Debug\net8.0\3_5OperadoresJoin.genruntimeconfig.cache
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\3_5OperadoresJoin\obj\Debug\net8.0\ref\3_5OperadoresJoin.dll

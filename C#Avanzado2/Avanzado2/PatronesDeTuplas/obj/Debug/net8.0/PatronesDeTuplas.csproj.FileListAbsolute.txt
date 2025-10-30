@@ -1,0 +1,14 @@
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado2\Avanzado2\PatronesDeTuplas\bin\Debug\net8.0\PatronesDeTuplas.exe
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado2\Avanzado2\PatronesDeTuplas\bin\Debug\net8.0\PatronesDeTuplas.deps.json
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado2\Avanzado2\PatronesDeTuplas\bin\Debug\net8.0\PatronesDeTuplas.runtimeconfig.json
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado2\Avanzado2\PatronesDeTuplas\bin\Debug\net8.0\PatronesDeTuplas.dll
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado2\Avanzado2\PatronesDeTuplas\bin\Debug\net8.0\PatronesDeTuplas.pdb
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado2\Avanzado2\PatronesDeTuplas\obj\Debug\net8.0\PatronesDeTuplas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado2\Avanzado2\PatronesDeTuplas\obj\Debug\net8.0\PatronesDeTuplas.AssemblyInfoInputs.cache
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado2\Avanzado2\PatronesDeTuplas\obj\Debug\net8.0\PatronesDeTuplas.AssemblyInfo.cs
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado2\Avanzado2\PatronesDeTuplas\obj\Debug\net8.0\PatronesDeTuplas.csproj.CoreCompileInputs.cache
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado2\Avanzado2\PatronesDeTuplas\obj\Debug\net8.0\PatronesDeTuplas.dll
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado2\Avanzado2\PatronesDeTuplas\obj\Debug\net8.0\refint\PatronesDeTuplas.dll
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado2\Avanzado2\PatronesDeTuplas\obj\Debug\net8.0\PatronesDeTuplas.pdb
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado2\Avanzado2\PatronesDeTuplas\obj\Debug\net8.0\PatronesDeTuplas.genruntimeconfig.cache
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado2\Avanzado2\PatronesDeTuplas\obj\Debug\net8.0\ref\PatronesDeTuplas.dll

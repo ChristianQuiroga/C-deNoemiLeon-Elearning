@@ -1,0 +1,17 @@
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\4_3ObjetosJsonYConsultasLinq\bin\Debug\net8.0\4_3ObjetosJsonYConsultasLinq.exe
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\4_3ObjetosJsonYConsultasLinq\bin\Debug\net8.0\4_3ObjetosJsonYConsultasLinq.deps.json
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\4_3ObjetosJsonYConsultasLinq\bin\Debug\net8.0\4_3ObjetosJsonYConsultasLinq.runtimeconfig.json
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\4_3ObjetosJsonYConsultasLinq\bin\Debug\net8.0\4_3ObjetosJsonYConsultasLinq.dll
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\4_3ObjetosJsonYConsultasLinq\bin\Debug\net8.0\4_3ObjetosJsonYConsultasLinq.pdb
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\4_3ObjetosJsonYConsultasLinq\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\4_3ObjetosJsonYConsultasLinq\obj\Debug\net8.0\4_3ObjetosJsonYConsultasLinq.csproj.AssemblyReference.cache
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\4_3ObjetosJsonYConsultasLinq\obj\Debug\net8.0\4_3ObjetosJsonYConsultasLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\4_3ObjetosJsonYConsultasLinq\obj\Debug\net8.0\4_3ObjetosJsonYConsultasLinq.AssemblyInfoInputs.cache
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\4_3ObjetosJsonYConsultasLinq\obj\Debug\net8.0\4_3ObjetosJsonYConsultasLinq.AssemblyInfo.cs
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\4_3ObjetosJsonYConsultasLinq\obj\Debug\net8.0\4_3ObjetosJsonYConsultasLinq.csproj.CoreCompileInputs.cache
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\4_3ObjetosJsonYConsultasLinq\obj\Debug\net8.0\4_3Objet.D07F1BD4.Up2Date
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\4_3ObjetosJsonYConsultasLinq\obj\Debug\net8.0\4_3ObjetosJsonYConsultasLinq.dll
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\4_3ObjetosJsonYConsultasLinq\obj\Debug\net8.0\refint\4_3ObjetosJsonYConsultasLinq.dll
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\4_3ObjetosJsonYConsultasLinq\obj\Debug\net8.0\4_3ObjetosJsonYConsultasLinq.pdb
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\4_3ObjetosJsonYConsultasLinq\obj\Debug\net8.0\4_3ObjetosJsonYConsultasLinq.genruntimeconfig.cache
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\4_3ObjetosJsonYConsultasLinq\obj\Debug\net8.0\ref\4_3ObjetosJsonYConsultasLinq.dll

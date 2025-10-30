@@ -1,0 +1,14 @@
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado2\Avanzado2\5ManejoExcepcionesC#\bin\Debug\net8.0\5ManejoExcepcionesC#.exe
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado2\Avanzado2\5ManejoExcepcionesC#\bin\Debug\net8.0\5ManejoExcepcionesC#.deps.json
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado2\Avanzado2\5ManejoExcepcionesC#\bin\Debug\net8.0\5ManejoExcepcionesC#.runtimeconfig.json
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado2\Avanzado2\5ManejoExcepcionesC#\bin\Debug\net8.0\5ManejoExcepcionesC#.dll
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado2\Avanzado2\5ManejoExcepcionesC#\bin\Debug\net8.0\5ManejoExcepcionesC#.pdb
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado2\Avanzado2\5ManejoExcepcionesC#\obj\Debug\net8.0\5ManejoExcepcionesC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado2\Avanzado2\5ManejoExcepcionesC#\obj\Debug\net8.0\5ManejoExcepcionesC#.AssemblyInfoInputs.cache
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado2\Avanzado2\5ManejoExcepcionesC#\obj\Debug\net8.0\5ManejoExcepcionesC#.AssemblyInfo.cs
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado2\Avanzado2\5ManejoExcepcionesC#\obj\Debug\net8.0\5ManejoExcepcionesC#.csproj.CoreCompileInputs.cache
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado2\Avanzado2\5ManejoExcepcionesC#\obj\Debug\net8.0\5ManejoExcepcionesC#.dll
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado2\Avanzado2\5ManejoExcepcionesC#\obj\Debug\net8.0\refint\5ManejoExcepcionesC#.dll
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado2\Avanzado2\5ManejoExcepcionesC#\obj\Debug\net8.0\5ManejoExcepcionesC#.pdb
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado2\Avanzado2\5ManejoExcepcionesC#\obj\Debug\net8.0\5ManejoExcepcionesC#.genruntimeconfig.cache
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado2\Avanzado2\5ManejoExcepcionesC#\obj\Debug\net8.0\ref\5ManejoExcepcionesC#.dll

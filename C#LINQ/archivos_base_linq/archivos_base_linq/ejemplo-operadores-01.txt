@@ -1,0 +1,85 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+
+
+namespace ConsoleApp1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            List<Empleado> empleados = new List<Empleado>()
+            {
+                new Empleado {
+                    Nombre = "Daniela",
+                    Apellido = "Pérez",
+                    Departamento = Departamento.Desarrollo,
+                    Edad = 29,
+                    IdExterno = 1
+                },
+                new Empleado {
+                    Nombre = "José",
+                    Apellido = "Lima Rico",
+                    Departamento = Departamento.Admin,
+                    Edad = 40,
+                    IdExterno = 2 
+                },
+                 new Empleado {
+                    Nombre = "Fernanda",
+                    Apellido = "Vega Valle",
+                    Departamento = Departamento.Desarrollo,
+                    Edad = 35,
+                    IdExterno = 3
+                },
+                  new Empleado {
+                    Nombre = "Fabiola",
+                    Apellido = "Cortés Vázquez",
+                    Departamento = Departamento.Desarrollo,
+                    Edad = 25,
+                    IdExterno = 4,
+                   
+                },
+                   new Empleado {
+                    Nombre = "Mónica",
+                    Apellido = "Correa",
+                    Departamento = Departamento.Soporte,
+                    Edad = 22,
+                    IdExterno = 5,
+                },
+            };
+            var filtro = empleados.Where(e => e.Edad <= 30).Reverse();
+            ImprimeEmpleados(filtro, "REVERSE");
+            //Skip
+            var fs = filtro.Skip(1);
+            ImprimeEmpleados(fs, "SKIP");
+
+            //TakeWhile
+            var ft = filtro.TakeWhile(e => e.Edad <= 25);
+            ImprimeEmpleados(ft, "TakeWhile");
+
+            //filtrar ordenar agrupar
+            var foa = empleados.Where(e => e.Edad <= 30)
+                .OrderBy(e => e.Nombre)
+                .GroupBy(e => e.Departamento);
+        }
+        static void ImprimeEmpleado(Empleado e)
+        {
+            string fila = string.Format("{0,-40} {1,-10} {2,-20} {3,-10} {4}",
+                    e.Id, e.Nombre, e.Apellido, e.Edad, e.Departamento);
+            Console.WriteLine(fila);
+        }
+
+        static void ImprimeEmpleados(IEnumerable<Empleado> lista, string titulo = "/** --- ** /")
+        {
+            Console.WriteLine(titulo);
+            var encabezado = string.Format("{0,-40} {1,-10} {2,-20} {3,-10} {4}",
+                           "ID", "Nombre", "Apellido", "Edad", "Departamento");
+            Console.WriteLine(encabezado);
+            foreach (var el in lista)
+            {
+                ImprimeEmpleado(el);
+            }
+        }
+    }
+}

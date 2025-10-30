@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#Avanzado2\\Avanzado2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74C9BC66-FD1E-4059-933C-C6A7CCC0A4F6}|Avanzado2\\1Avanzado2.csproj|c:\\users\\christian.quiroga\\onedrive - wisetech global pty ltd\\documents\\cursos coderhouse\\c#denoemileon elearning\\c#avanzado2\\avanzado2\\avanzado2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74C9BC66-FD1E-4059-933C-C6A7CCC0A4F6}|Avanzado2\\1Avanzado2.csproj|solutionrelative:avanzado2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6867A88E-F4C7-4717-B12E-4932B993DA1E}|5ManejoExcepcionesC#\\5ManejoExcepcionesC#.csproj|c:\\users\\christian.quiroga\\onedrive - wisetech global pty ltd\\documents\\cursos coderhouse\\c#denoemileon elearning\\c#avanzado2\\avanzado2\\5manejoexcepcionesc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6867A88E-F4C7-4717-B12E-4932B993DA1E}|5ManejoExcepcionesC#\\5ManejoExcepcionesC#.csproj|solutionrelative:5manejoexcepcionesc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6867A88E-F4C7-4717-B12E-4932B993DA1E}|5ManejoExcepcionesC#\\5ManejoExcepcionesC#.csproj|c:\\users\\christian.quiroga\\onedrive - wisetech global pty ltd\\documents\\cursos coderhouse\\c#denoemileon elearning\\c#avanzado2\\avanzado2\\5manejoexcepcionesc#\\formatoarchivoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6867A88E-F4C7-4717-B12E-4932B993DA1E}|5ManejoExcepcionesC#\\5ManejoExcepcionesC#.csproj|solutionrelative:5manejoexcepcionesc#\\formatoarchivoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36ACB890-130C-4E50-A15E-5254C1C7F4A7}|4ConcurrenciaAsincroniaTareas\\4ConcurrenciaAsincroniaTareas.csproj|c:\\users\\christian.quiroga\\onedrive - wisetech global pty ltd\\documents\\cursos coderhouse\\c#denoemileon elearning\\c#avanzado2\\avanzado2\\4concurrenciaasincroniatareas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36ACB890-130C-4E50-A15E-5254C1C7F4A7}|4ConcurrenciaAsincroniaTareas\\4ConcurrenciaAsincroniaTareas.csproj|solutionrelative:4concurrenciaasincroniatareas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{629C51BD-ADF8-431A-A3BE-EBA33C5E6FE5}|4ConcuAsincTareasExcepTareas\\4ConcuAsincTareasExcepTareas.csproj|c:\\users\\christian.quiroga\\onedrive - wisetech global pty ltd\\documents\\cursos coderhouse\\c#denoemileon elearning\\c#avanzado2\\avanzado2\\4concuasinctareasexceptareas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{629C51BD-ADF8-431A-A3BE-EBA33C5E6FE5}|4ConcuAsincTareasExcepTareas\\4ConcuAsincTareasExcepTareas.csproj|solutionrelative:4concuasinctareasexceptareas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5E776C-1BC6-4272-8193-C988EE0CF925}|3ConcurrenciaAsincronicaHilos\\3ConcurrenciaAsincronicaHilos.csproj|c:\\users\\christian.quiroga\\onedrive - wisetech global pty ltd\\documents\\cursos coderhouse\\c#denoemileon elearning\\c#avanzado2\\avanzado2\\3concurrenciaasincronicahilos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5E776C-1BC6-4272-8193-C988EE0CF925}|3ConcurrenciaAsincronicaHilos\\3ConcurrenciaAsincronicaHilos.csproj|solutionrelative:3concurrenciaasincronicahilos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFBD18F9-C180-435A-9000-26DFB5BD2666}|CoincidenciaPatronesAtributosC\\2CoincidenciaPatronesAtributosC.csproj|c:\\users\\christian.quiroga\\onedrive - wisetech global pty ltd\\documents\\cursos coderhouse\\c#denoemileon elearning\\c#avanzado2\\avanzado2\\coincidenciapatronesatributosc\\datosdesarrolloattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFBD18F9-C180-435A-9000-26DFB5BD2666}|CoincidenciaPatronesAtributosC\\2CoincidenciaPatronesAtributosC.csproj|solutionrelative:coincidenciapatronesatributosc\\datosdesarrolloattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFBD18F9-C180-435A-9000-26DFB5BD2666}|CoincidenciaPatronesAtributosC\\2CoincidenciaPatronesAtributosC.csproj|c:\\users\\christian.quiroga\\onedrive - wisetech global pty ltd\\documents\\cursos coderhouse\\c#denoemileon elearning\\c#avanzado2\\avanzado2\\coincidenciapatronesatributosc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFBD18F9-C180-435A-9000-26DFB5BD2666}|CoincidenciaPatronesAtributosC\\2CoincidenciaPatronesAtributosC.csproj|solutionrelative:coincidenciapatronesatributosc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784516AA-4408-474F-81A1-605D6711159C}|PatronesDeTuplas\\2_3PatronesDeTuplas.csproj|c:\\users\\christian.quiroga\\onedrive - wisetech global pty ltd\\documents\\cursos coderhouse\\c#denoemileon elearning\\c#avanzado2\\avanzado2\\patronesdetuplas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784516AA-4408-474F-81A1-605D6711159C}|PatronesDeTuplas\\2_3PatronesDeTuplas.csproj|solutionrelative:patronesdetuplas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74C9BC66-FD1E-4059-933C-C6A7CCC0A4F6}|Avanzado2\\1Avanzado2.csproj|c:\\users\\christian.quiroga\\onedrive - wisetech global pty ltd\\documents\\cursos coderhouse\\c#denoemileon elearning\\c#avanzado2\\avanzado2\\avanzado2\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74C9BC66-FD1E-4059-933C-C6A7CCC0A4F6}|Avanzado2\\1Avanzado2.csproj|solutionrelative:avanzado2\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74C9BC66-FD1E-4059-933C-C6A7CCC0A4F6}|Avanzado2\\1Avanzado2.csproj|c:\\users\\christian.quiroga\\onedrive - wisetech global pty ltd\\documents\\cursos coderhouse\\c#denoemileon elearning\\c#avanzado2\\avanzado2\\avanzado2\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74C9BC66-FD1E-4059-933C-C6A7CCC0A4F6}|Avanzado2\\1Avanzado2.csproj|solutionrelative:avanzado2\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#Avanzado2\\Avanzado2\\5ManejoExcepcionesC#\\Program.cs",
+              "RelativeDocumentMoniker": "5ManejoExcepcionesC#\\Program.cs",
+              "ToolTip": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#Avanzado2\\Avanzado2\\5ManejoExcepcionesC#\\Program.cs",
+              "RelativeToolTip": "5ManejoExcepcionesC#\\Program.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:20:30.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormatoArchivoException.cs",
+              "DocumentMoniker": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#Avanzado2\\Avanzado2\\5ManejoExcepcionesC#\\FormatoArchivoException.cs",
+              "RelativeDocumentMoniker": "5ManejoExcepcionesC#\\FormatoArchivoException.cs",
+              "ToolTip": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#Avanzado2\\Avanzado2\\5ManejoExcepcionesC#\\FormatoArchivoException.cs",
+              "RelativeToolTip": "5ManejoExcepcionesC#\\FormatoArchivoException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:20:26.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#Avanzado2\\Avanzado2\\4ConcurrenciaAsincroniaTareas\\Program.cs",
+              "RelativeDocumentMoniker": "4ConcurrenciaAsincroniaTareas\\Program.cs",
+              "ToolTip": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#Avanzado2\\Avanzado2\\4ConcurrenciaAsincroniaTareas\\Program.cs",
+              "RelativeToolTip": "4ConcurrenciaAsincroniaTareas\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:20:19.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#Avanzado2\\Avanzado2\\4ConcuAsincTareasExcepTareas\\Program.cs",
+              "RelativeDocumentMoniker": "4ConcuAsincTareasExcepTareas\\Program.cs",
+              "ToolTip": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#Avanzado2\\Avanzado2\\4ConcuAsincTareasExcepTareas\\Program.cs",
+              "RelativeToolTip": "4ConcuAsincTareasExcepTareas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:20:13.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#Avanzado2\\Avanzado2\\3concurrenciaasincronicahilos\\Program.cs",
+              "RelativeDocumentMoniker": "3concurrenciaasincronicahilos\\Program.cs",
+              "ToolTip": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#Avanzado2\\Avanzado2\\3concurrenciaasincronicahilos\\Program.cs",
+              "RelativeToolTip": "3concurrenciaasincronicahilos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:20:06.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#Avanzado2\\Avanzado2\\Avanzado2\\Program.cs",
+              "RelativeDocumentMoniker": "Avanzado2\\Program.cs",
+              "ToolTip": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#Avanzado2\\Avanzado2\\Avanzado2\\Program.cs",
+              "RelativeToolTip": "Avanzado2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:18:43.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#Avanzado2\\Avanzado2\\Avanzado2\\Instructor.cs",
+              "RelativeDocumentMoniker": "Avanzado2\\Instructor.cs",
+              "ToolTip": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#Avanzado2\\Avanzado2\\Avanzado2\\Instructor.cs",
+              "RelativeToolTip": "Avanzado2\\Instructor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:18:42.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#Avanzado2\\Avanzado2\\Avanzado2\\Curso.cs",
+              "RelativeDocumentMoniker": "Avanzado2\\Curso.cs",
+              "ToolTip": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#Avanzado2\\Avanzado2\\Avanzado2\\Curso.cs",
+              "RelativeToolTip": "Avanzado2\\Curso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:18:39.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#Avanzado2\\Avanzado2\\PatronesDeTuplas\\Program.cs",
+              "RelativeDocumentMoniker": "PatronesDeTuplas\\Program.cs",
+              "ToolTip": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#Avanzado2\\Avanzado2\\PatronesDeTuplas\\Program.cs",
+              "RelativeToolTip": "PatronesDeTuplas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T13:46:51.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DatosDesarrolloAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#Avanzado2\\Avanzado2\\CoincidenciaPatronesAtributosC\\DatosDesarrolloAttribute.cs",
+              "RelativeDocumentMoniker": "CoincidenciaPatronesAtributosC\\DatosDesarrolloAttribute.cs",
+              "ToolTip": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#Avanzado2\\Avanzado2\\CoincidenciaPatronesAtributosC\\DatosDesarrolloAttribute.cs",
+              "RelativeToolTip": "CoincidenciaPatronesAtributosC\\DatosDesarrolloAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T13:46:33.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#Avanzado2\\Avanzado2\\CoincidenciaPatronesAtributosC\\Program.cs",
+              "RelativeDocumentMoniker": "CoincidenciaPatronesAtributosC\\Program.cs",
+              "ToolTip": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#Avanzado2\\Avanzado2\\CoincidenciaPatronesAtributosC\\Program.cs",
+              "RelativeToolTip": "CoincidenciaPatronesAtributosC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T13:17:05.379Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 331,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

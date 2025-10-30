@@ -1,0 +1,27 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+
+namespace PracticaMetodosExtensionLiL
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            #region linq
+            int?[] miArr = { 10, 100, null, 500, 50, null };
+            var res = miArr.Sum(e => e);
+            Console.WriteLine(res);
+            #endregion
+
+            #region personalizado
+            var coord = new List<int>() { 5, -9 };
+            var inverso = coord.ObtenerInverso();
+            Console.WriteLine($"{inverso.First()}, {inverso.Last()}");
+
+            var nuevaCoord = coord.MoverACuadrante(3);
+            Console.WriteLine($"{nuevaCoord.First()}, {nuevaCoord.Last()}");
+            #endregion
+        }
+    }
+}

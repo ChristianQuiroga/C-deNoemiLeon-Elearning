@@ -1,0 +1,25 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Xml.Linq;
+
+
+namespace ConsoleApp1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            var archivo = @"C:\Users\noemi\source\repos\ConsoleApp1\pagos.xml";
+            var docXml = XDocument.Load(archivo);
+            var pagosProcesados = docXml.Element("pagos").Elements("pago")
+                .Where(p => p.Attribute("procesado")?.Value == "true")
+                .Select(p => p.Element("descripcion").Value);
+
+            foreach(var p in pagosProcesados)
+            {
+                Console.WriteLine(p);
+            }
+        }
+    }
+}

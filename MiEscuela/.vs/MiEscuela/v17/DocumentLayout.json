@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\MiEscuela\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB93B10-F577-4D17-9E7F-189BE855F0B3}|MiEscuela\\MiEscuela.csproj|c:\\users\\christian.quiroga\\onedrive - wisetech global pty ltd\\documents\\cursos coderhouse\\c#denoemileon elearning\\miescuela\\miescuela\\academica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AB93B10-F577-4D17-9E7F-189BE855F0B3}|MiEscuela\\MiEscuela.csproj|solutionrelative:miescuela\\academica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB93B10-F577-4D17-9E7F-189BE855F0B3}|MiEscuela\\MiEscuela.csproj|c:\\users\\christian.quiroga\\onedrive - wisetech global pty ltd\\documents\\cursos coderhouse\\c#denoemileon elearning\\miescuela\\miescuela\\cultural.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AB93B10-F577-4D17-9E7F-189BE855F0B3}|MiEscuela\\MiEscuela.csproj|solutionrelative:miescuela\\cultural.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB93B10-F577-4D17-9E7F-189BE855F0B3}|MiEscuela\\MiEscuela.csproj|c:\\users\\christian.quiroga\\onedrive - wisetech global pty ltd\\documents\\cursos coderhouse\\c#denoemileon elearning\\miescuela\\miescuela\\deportiva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AB93B10-F577-4D17-9E7F-189BE855F0B3}|MiEscuela\\MiEscuela.csproj|solutionrelative:miescuela\\deportiva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB93B10-F577-4D17-9E7F-189BE855F0B3}|MiEscuela\\MiEscuela.csproj|c:\\users\\christian.quiroga\\onedrive - wisetech global pty ltd\\documents\\cursos coderhouse\\c#denoemileon elearning\\miescuela\\miescuela\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AB93B10-F577-4D17-9E7F-189BE855F0B3}|MiEscuela\\MiEscuela.csproj|solutionrelative:miescuela\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB93B10-F577-4D17-9E7F-189BE855F0B3}|MiEscuela\\MiEscuela.csproj|c:\\users\\christian.quiroga\\onedrive - wisetech global pty ltd\\documents\\cursos coderhouse\\c#denoemileon elearning\\miescuela\\miescuela\\tiempocompleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AB93B10-F577-4D17-9E7F-189BE855F0B3}|MiEscuela\\MiEscuela.csproj|solutionrelative:miescuela\\tiempocompleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB93B10-F577-4D17-9E7F-189BE855F0B3}|MiEscuela\\MiEscuela.csproj|c:\\users\\christian.quiroga\\onedrive - wisetech global pty ltd\\documents\\cursos coderhouse\\c#denoemileon elearning\\miescuela\\miescuela\\secretaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AB93B10-F577-4D17-9E7F-189BE855F0B3}|MiEscuela\\MiEscuela.csproj|solutionrelative:miescuela\\secretaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB93B10-F577-4D17-9E7F-189BE855F0B3}|MiEscuela\\MiEscuela.csproj|c:\\users\\christian.quiroga\\onedrive - wisetech global pty ltd\\documents\\cursos coderhouse\\c#denoemileon elearning\\miescuela\\miescuela\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AB93B10-F577-4D17-9E7F-189BE855F0B3}|MiEscuela\\MiEscuela.csproj|solutionrelative:miescuela\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB93B10-F577-4D17-9E7F-189BE855F0B3}|MiEscuela\\MiEscuela.csproj|C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\MiEscuela\\miescuela\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AB93B10-F577-4D17-9E7F-189BE855F0B3}|MiEscuela\\MiEscuela.csproj|solutionrelative:miescuela\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Academica.cs",
+              "DocumentMoniker": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\MiEscuela\\MiEscuela\\Academica.cs",
+              "RelativeDocumentMoniker": "MiEscuela\\Academica.cs",
+              "ToolTip": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\MiEscuela\\MiEscuela\\Academica.cs",
+              "RelativeToolTip": "MiEscuela\\Academica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:23:24.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Deportiva.cs",
+              "DocumentMoniker": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\MiEscuela\\MiEscuela\\Deportiva.cs",
+              "RelativeDocumentMoniker": "MiEscuela\\Deportiva.cs",
+              "ToolTip": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\MiEscuela\\MiEscuela\\Deportiva.cs",
+              "RelativeToolTip": "MiEscuela\\Deportiva.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:23:20.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\MiEscuela\\MiEscuela\\Estudiante.cs",
+              "RelativeDocumentMoniker": "MiEscuela\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\MiEscuela\\MiEscuela\\Estudiante.cs",
+              "RelativeToolTip": "MiEscuela\\Estudiante.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:23:17.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TiempoCompleto.cs",
+              "DocumentMoniker": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\MiEscuela\\MiEscuela\\TiempoCompleto.cs",
+              "RelativeDocumentMoniker": "MiEscuela\\TiempoCompleto.cs",
+              "ToolTip": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\MiEscuela\\MiEscuela\\TiempoCompleto.cs",
+              "RelativeToolTip": "MiEscuela\\TiempoCompleto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:23:15.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Secretaria.cs",
+              "DocumentMoniker": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\MiEscuela\\MiEscuela\\Secretaria.cs",
+              "RelativeDocumentMoniker": "MiEscuela\\Secretaria.cs",
+              "ToolTip": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\MiEscuela\\MiEscuela\\Secretaria.cs",
+              "RelativeToolTip": "MiEscuela\\Secretaria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:23:14.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\MiEscuela\\MiEscuela\\Program.cs",
+              "RelativeDocumentMoniker": "MiEscuela\\Program.cs",
+              "ToolTip": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\MiEscuela\\MiEscuela\\Program.cs",
+              "RelativeToolTip": "MiEscuela\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:23:08.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cultural.cs",
+              "DocumentMoniker": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\MiEscuela\\MiEscuela\\Cultural.cs",
+              "RelativeDocumentMoniker": "MiEscuela\\Cultural.cs",
+              "ToolTip": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\MiEscuela\\MiEscuela\\Cultural.cs",
+              "RelativeToolTip": "MiEscuela\\Cultural.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:45:59.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\MiEscuela\\MiEscuela\\Empleado.cs",
+              "RelativeDocumentMoniker": "MiEscuela\\Empleado.cs",
+              "ToolTip": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\MiEscuela\\MiEscuela\\Empleado.cs",
+              "RelativeToolTip": "MiEscuela\\Empleado.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:45:51.709Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 331,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

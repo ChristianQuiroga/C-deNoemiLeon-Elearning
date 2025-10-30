@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{A86FEB8E-B43D-4288-A619-4703AF2B56F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaLambda", "PracticaLambda\PracticaLambda.csproj", "{6959AEC3-20B9-40F1-BD53-7461BA209E43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaNullable", "PracticaNullable\PracticaNullable.csproj", "{30623B70-D8EB-447F-8ABE-5C490A8E8B56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaDelegados", "PracticaDelegadoEventos\PracticaDelegados.csproj", "{5C6C60F1-B7BE-4B46-82E0-D93B5EB9E26D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaEventos", "PracticaEventos\PracticaEventos.csproj", "{51547093-4845-4C11-A221-2B1A486FD6DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaEventosEventHandlerNet", "PracticaEventosEventHandlerNet\PracticaEventosEventHandlerNet.csproj", "{ECE53775-F21F-435B-AEFD-FDA67EF4AE1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A86FEB8E-B43D-4288-A619-4703AF2B56F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A86FEB8E-B43D-4288-A619-4703AF2B56F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A86FEB8E-B43D-4288-A619-4703AF2B56F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A86FEB8E-B43D-4288-A619-4703AF2B56F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6959AEC3-20B9-40F1-BD53-7461BA209E43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6959AEC3-20B9-40F1-BD53-7461BA209E43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6959AEC3-20B9-40F1-BD53-7461BA209E43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6959AEC3-20B9-40F1-BD53-7461BA209E43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30623B70-D8EB-447F-8ABE-5C490A8E8B56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30623B70-D8EB-447F-8ABE-5C490A8E8B56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30623B70-D8EB-447F-8ABE-5C490A8E8B56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30623B70-D8EB-447F-8ABE-5C490A8E8B56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C6C60F1-B7BE-4B46-82E0-D93B5EB9E26D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C6C60F1-B7BE-4B46-82E0-D93B5EB9E26D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C6C60F1-B7BE-4B46-82E0-D93B5EB9E26D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C6C60F1-B7BE-4B46-82E0-D93B5EB9E26D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51547093-4845-4C11-A221-2B1A486FD6DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51547093-4845-4C11-A221-2B1A486FD6DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51547093-4845-4C11-A221-2B1A486FD6DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51547093-4845-4C11-A221-2B1A486FD6DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECE53775-F21F-435B-AEFD-FDA67EF4AE1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECE53775-F21F-435B-AEFD-FDA67EF4AE1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECE53775-F21F-435B-AEFD-FDA67EF4AE1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECE53775-F21F-435B-AEFD-FDA67EF4AE1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CF00348-DD2D-49F6-B4F4-512668D8BA83}
+	EndGlobalSection
+EndGlobal

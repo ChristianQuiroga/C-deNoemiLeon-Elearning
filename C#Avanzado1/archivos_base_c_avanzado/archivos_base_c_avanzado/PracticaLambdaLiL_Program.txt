@@ -1,0 +1,56 @@
+using System;
+
+namespace PracticaLambdaLiL
+{
+    delegate int Operacion(int x, int y);
+    class Program
+    {
+        static void Main()
+        {
+            #region lambda
+            Operacion op = (a, b) => a * b;
+            var res = op(2, 2);
+            //Console.WriteLine($"Total {res}");
+
+            Operacion potencia = (a, b) =>
+            {
+                //Console.WriteLine($"{a} elevado a la {b} potencia");
+                return (int)Math.Pow(a, b);
+            };
+            int x = 2;
+            int z = 4;
+            int p = potencia(x, z);
+            //Console.WriteLine($"Total {p}");
+
+            Func<int, int, int> pot = (x, y) => (int)Math.Pow(x, y);
+            //Console.WriteLine($"Total {pot(5,5)}");
+
+            Func<string, string, bool> igual = (a, b) => a.Equals(b);
+            string cadA = "Noemi";
+            string cadB = "Noemi";
+            //Console.WriteLine($"Son iguales? {igual(cadA, cadB)}");
+            #endregion
+
+            #region variables e iteraciones
+            int a = 5;
+            Func<int, int> suma = s => x + a;
+            a = 10;
+            Console.WriteLine($" Suma = {suma(2)}");
+
+            Func<int, int, int> potB = (x, y) => (int)Math.Pow(x, y);
+            int baseP = 5;
+            for(int i = 1; i <= 3; i++)
+            {
+                int resultado = potB(baseP, i);
+                Console.WriteLine($"{baseP} Elevado a la {i} potencia = {resultado}");
+            }
+            #endregion
+
+            #region tuplas
+            Func<(int, int), (int, int)> invertir = c => (c.Item1 * -1, c.Item2 * -1);
+            var coordenadas = (-20, 50);
+            Console.WriteLine($"Coordenadas invertidas {invertir(coordenadas)}");
+            #endregion
+        }
+    }
+}

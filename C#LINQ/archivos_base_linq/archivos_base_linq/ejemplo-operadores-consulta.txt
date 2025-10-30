@@ -1,0 +1,68 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+
+
+namespace ConsoleApp1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            List<Empleado> empleados = new List<Empleado>()
+            {
+                new Empleado {
+                    Nombre = "Daniela",
+                    Apellido = "Pérez",
+                    Departamento = Departamento.Desarrollo
+                },
+                new Empleado {
+                    Nombre = "José",
+                    Apellido = "Lima Rico",
+                    Departamento = Departamento.Admin
+                },
+                 new Empleado {
+                    Nombre = "Fernanda",
+                    Apellido = "Vega Valle",
+                    Departamento = Departamento.Desarrollo
+                },
+                  new Empleado {
+                    Nombre = "Fabiola",
+                    Apellido = "Cortés Vázquez",
+                    Departamento = Departamento.Desarrollo
+                },
+                   new Empleado {
+                    Nombre = "Mónica",
+                    Apellido = "Correa",
+                    Departamento = Departamento.Soporte
+                },
+            };
+            var em = empleados.Where(u => u.Departamento == Departamento.Desarrollo
+                                && u.Nombre.ToLower().Contains("f")).OrderBy(u => u.Id);
+
+            var filtro = empleados.Where(u => u.Departamento == Departamento.Desarrollo
+                                && u.Nombre.ToLower().Contains("f"))
+                                .OrderBy(u => u.Id)
+                                .Select(u => new
+                                {
+                                    u.Id,
+                                    u.Nombre,
+                                    InicialAp = u.Apellido.Substring(0, 1),
+                                    Depto = u.Departamento.ToString()
+                                });
+            var encabezado = string.Format("{0,-40} {1,-10} {2,-10} {3}",
+                           "ID", "Nombre", "Apellido", "Departamento");
+            Console.WriteLine(encabezado);
+            foreach (var f in filtro)
+            {
+                string fila = string.Format("{0,-40} {1,-10} {2,-10} {3}",
+                    f.Id, f.Nombre, f.InicialAp, f.Depto);
+                Console.WriteLine(fila);
+            }
+
+
+
+
+        }
+    }
+}

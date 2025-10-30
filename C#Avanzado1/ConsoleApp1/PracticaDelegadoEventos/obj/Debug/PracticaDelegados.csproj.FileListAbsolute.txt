@@ -1,0 +1,7 @@
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado1\ConsoleApp1\PracticaDelegadoEventos\bin\Debug\PracticaDelegadoEventos.exe.config
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado1\ConsoleApp1\PracticaDelegadoEventos\bin\Debug\PracticaDelegadoEventos.exe
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado1\ConsoleApp1\PracticaDelegadoEventos\bin\Debug\PracticaDelegadoEventos.pdb
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado1\ConsoleApp1\PracticaDelegadoEventos\obj\Debug\PracticaDelegados.csproj.AssemblyReference.cache
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado1\ConsoleApp1\PracticaDelegadoEventos\obj\Debug\PracticaDelegados.csproj.CoreCompileInputs.cache
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado1\ConsoleApp1\PracticaDelegadoEventos\obj\Debug\PracticaDelegadoEventos.exe
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado1\ConsoleApp1\PracticaDelegadoEventos\obj\Debug\PracticaDelegadoEventos.pdb
