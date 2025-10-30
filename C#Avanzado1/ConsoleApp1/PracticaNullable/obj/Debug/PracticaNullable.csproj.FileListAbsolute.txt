@@ -5,3 +5,10 @@ C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS C
 C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado1\ConsoleApp1\PracticaNullable\obj\Debug\PracticaNullable.csproj.CoreCompileInputs.cache
 C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado1\ConsoleApp1\PracticaNullable\obj\Debug\PracticaNullable.exe
 C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado1\ConsoleApp1\PracticaNullable\obj\Debug\PracticaNullable.pdb
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado1\ConsoleApp1\PracticaNullable\bin\Debug\PracticaNullable.exe.config
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado1\ConsoleApp1\PracticaNullable\bin\Debug\PracticaNullable.exe
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado1\ConsoleApp1\PracticaNullable\bin\Debug\PracticaNullable.pdb
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado1\ConsoleApp1\PracticaNullable\obj\Debug\PracticaNullable.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado1\ConsoleApp1\PracticaNullable\obj\Debug\PracticaNullable.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado1\ConsoleApp1\PracticaNullable\obj\Debug\PracticaNullable.exe
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado1\ConsoleApp1\PracticaNullable\obj\Debug\PracticaNullable.pdb

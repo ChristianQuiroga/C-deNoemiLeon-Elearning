@@ -1,49 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#Avanzado1\\ConsoleApp1\\",
+  "WorkspaceRootPath": "C:\\Users\\chris\\OneDrive\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#Avanzado1\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{30623B70-D8EB-447F-8ABE-5C490A8E8B56}|PracticaNullable\\PracticaNullable.csproj|c:\\users\\christian.quiroga\\onedrive - wisetech global pty ltd\\documents\\cursos coderhouse\\c#denoemileon elearning\\c#avanzado1\\consoleapp1\\practicanullable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30623B70-D8EB-447F-8ABE-5C490A8E8B56}|PracticaNullable\\PracticaNullable.csproj|solutionrelative:practicanullable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6959AEC3-20B9-40F1-BD53-7461BA209E43}|PracticaLambda\\PracticaLambda.csproj|c:\\users\\christian.quiroga\\onedrive - wisetech global pty ltd\\documents\\cursos coderhouse\\c#denoemileon elearning\\c#avanzado1\\consoleapp1\\practicalambda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6959AEC3-20B9-40F1-BD53-7461BA209E43}|PracticaLambda\\PracticaLambda.csproj|solutionrelative:practicalambda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECE53775-F21F-435B-AEFD-FDA67EF4AE1F}|PracticaEventosEventHandlerNet\\PracticaEventosEventHandlerNet.csproj|c:\\users\\christian.quiroga\\onedrive - wisetech global pty ltd\\documents\\cursos coderhouse\\c#denoemileon elearning\\c#avanzado1\\consoleapp1\\practicaeventoseventhandlernet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECE53775-F21F-435B-AEFD-FDA67EF4AE1F}|PracticaEventosEventHandlerNet\\PracticaEventosEventHandlerNet.csproj|solutionrelative:practicaeventoseventhandlernet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECE53775-F21F-435B-AEFD-FDA67EF4AE1F}|PracticaEventosEventHandlerNet\\PracticaEventosEventHandlerNet.csproj|c:\\users\\christian.quiroga\\onedrive - wisetech global pty ltd\\documents\\cursos coderhouse\\c#denoemileon elearning\\c#avanzado1\\consoleapp1\\practicaeventoseventhandlernet\\formadepago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECE53775-F21F-435B-AEFD-FDA67EF4AE1F}|PracticaEventosEventHandlerNet\\PracticaEventosEventHandlerNet.csproj|solutionrelative:practicaeventoseventhandlernet\\formadepago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECE53775-F21F-435B-AEFD-FDA67EF4AE1F}|PracticaEventosEventHandlerNet\\PracticaEventosEventHandlerNet.csproj|c:\\users\\christian.quiroga\\onedrive - wisetech global pty ltd\\documents\\cursos coderhouse\\c#denoemileon elearning\\c#avanzado1\\consoleapp1\\practicaeventoseventhandlernet\\cambioformapagoeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECE53775-F21F-435B-AEFD-FDA67EF4AE1F}|PracticaEventosEventHandlerNet\\PracticaEventosEventHandlerNet.csproj|solutionrelative:practicaeventoseventhandlernet\\cambioformapagoeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51547093-4845-4C11-A221-2B1A486FD6DB}|PracticaEventos\\PracticaEventos.csproj|c:\\users\\christian.quiroga\\onedrive - wisetech global pty ltd\\documents\\cursos coderhouse\\c#denoemileon elearning\\c#avanzado1\\consoleapp1\\practicaeventos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51547093-4845-4C11-A221-2B1A486FD6DB}|PracticaEventos\\PracticaEventos.csproj|solutionrelative:practicaeventos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51547093-4845-4C11-A221-2B1A486FD6DB}|PracticaEventos\\PracticaEventos.csproj|c:\\users\\christian.quiroga\\onedrive - wisetech global pty ltd\\documents\\cursos coderhouse\\c#denoemileon elearning\\c#avanzado1\\consoleapp1\\practicaeventos\\formadepago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51547093-4845-4C11-A221-2B1A486FD6DB}|PracticaEventos\\PracticaEventos.csproj|solutionrelative:practicaeventos\\formadepago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C6C60F1-B7BE-4B46-82E0-D93B5EB9E26D}|PracticaDelegadoEventos\\PracticaDelegados.csproj|c:\\users\\christian.quiroga\\onedrive - wisetech global pty ltd\\documents\\cursos coderhouse\\c#denoemileon elearning\\c#avanzado1\\consoleapp1\\practicadelegadoeventos\\vuelonacional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C6C60F1-B7BE-4B46-82E0-D93B5EB9E26D}|PracticaDelegadoEventos\\PracticaDelegados.csproj|solutionrelative:practicadelegadoeventos\\vuelonacional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C6C60F1-B7BE-4B46-82E0-D93B5EB9E26D}|PracticaDelegadoEventos\\PracticaDelegados.csproj|c:\\users\\christian.quiroga\\onedrive - wisetech global pty ltd\\documents\\cursos coderhouse\\c#denoemileon elearning\\c#avanzado1\\consoleapp1\\practicadelegadoeventos\\vuelointernacional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C6C60F1-B7BE-4B46-82E0-D93B5EB9E26D}|PracticaDelegadoEventos\\PracticaDelegados.csproj|solutionrelative:practicadelegadoeventos\\vuelointernacional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C6C60F1-B7BE-4B46-82E0-D93B5EB9E26D}|PracticaDelegadoEventos\\PracticaDelegados.csproj|c:\\users\\christian.quiroga\\onedrive - wisetech global pty ltd\\documents\\cursos coderhouse\\c#denoemileon elearning\\c#avanzado1\\consoleapp1\\practicadelegadoeventos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C6C60F1-B7BE-4B46-82E0-D93B5EB9E26D}|PracticaDelegadoEventos\\PracticaDelegados.csproj|solutionrelative:practicadelegadoeventos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A86FEB8E-B43D-4288-A619-4703AF2B56F4}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\christian.quiroga\\onedrive - wisetech global pty ltd\\documents\\cursos coderhouse\\c#denoemileon elearning\\c#avanzado1\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A86FEB8E-B43D-4288-A619-4703AF2B56F4}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\chris\\onedrive\\documents\\cursos coderhouse\\c#denoemileon elearning\\c#avanzado1\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A86FEB8E-B43D-4288-A619-4703AF2B56F4}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -54,8 +14,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
@@ -73,150 +37,20 @@
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#Avanzado1\\ConsoleApp1\\PracticaNullable\\Program.cs",
-              "RelativeDocumentMoniker": "PracticaNullable\\Program.cs",
-              "ToolTip": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#Avanzado1\\ConsoleApp1\\PracticaNullable\\Program.cs",
-              "RelativeToolTip": "PracticaNullable\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T15:22:34.361Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#Avanzado1\\ConsoleApp1\\PracticaLambda\\Program.cs",
-              "RelativeDocumentMoniker": "PracticaLambda\\Program.cs",
-              "ToolTip": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#Avanzado1\\ConsoleApp1\\PracticaLambda\\Program.cs",
-              "RelativeToolTip": "PracticaLambda\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T15:22:25.426Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#Avanzado1\\ConsoleApp1\\PracticaEventosEventHandlerNet\\Program.cs",
-              "RelativeDocumentMoniker": "PracticaEventosEventHandlerNet\\Program.cs",
-              "ToolTip": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#Avanzado1\\ConsoleApp1\\PracticaEventosEventHandlerNet\\Program.cs",
-              "RelativeToolTip": "PracticaEventosEventHandlerNet\\Program.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T15:22:16.11Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FormaDePago.cs",
-              "DocumentMoniker": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#Avanzado1\\ConsoleApp1\\PracticaEventosEventHandlerNet\\FormaDePago.cs",
-              "RelativeDocumentMoniker": "PracticaEventosEventHandlerNet\\FormaDePago.cs",
-              "ToolTip": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#Avanzado1\\ConsoleApp1\\PracticaEventosEventHandlerNet\\FormaDePago.cs",
-              "RelativeToolTip": "PracticaEventosEventHandlerNet\\FormaDePago.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T15:22:14.078Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CambioFormaPagoEventArgs.cs",
-              "DocumentMoniker": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#Avanzado1\\ConsoleApp1\\PracticaEventosEventHandlerNet\\CambioFormaPagoEventArgs.cs",
-              "RelativeDocumentMoniker": "PracticaEventosEventHandlerNet\\CambioFormaPagoEventArgs.cs",
-              "ToolTip": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#Avanzado1\\ConsoleApp1\\PracticaEventosEventHandlerNet\\CambioFormaPagoEventArgs.cs",
-              "RelativeToolTip": "PracticaEventosEventHandlerNet\\CambioFormaPagoEventArgs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T15:22:11.248Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#Avanzado1\\ConsoleApp1\\PracticaEventos\\Program.cs",
-              "RelativeDocumentMoniker": "PracticaEventos\\Program.cs",
-              "ToolTip": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#Avanzado1\\ConsoleApp1\\PracticaEventos\\Program.cs",
-              "RelativeToolTip": "PracticaEventos\\Program.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAQwDcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T15:21:50.314Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FormaDePago.cs",
-              "DocumentMoniker": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#Avanzado1\\ConsoleApp1\\PracticaEventos\\FormaDePago.cs",
-              "RelativeDocumentMoniker": "PracticaEventos\\FormaDePago.cs",
-              "ToolTip": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#Avanzado1\\ConsoleApp1\\PracticaEventos\\FormaDePago.cs",
-              "RelativeToolTip": "PracticaEventos\\FormaDePago.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T15:21:45.93Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "VueloNacional.cs",
-              "DocumentMoniker": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#Avanzado1\\ConsoleApp1\\PracticaDelegadoEventos\\VueloNacional.cs",
-              "RelativeDocumentMoniker": "PracticaDelegadoEventos\\VueloNacional.cs",
-              "ToolTip": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#Avanzado1\\ConsoleApp1\\PracticaDelegadoEventos\\VueloNacional.cs",
-              "RelativeToolTip": "PracticaDelegadoEventos\\VueloNacional.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T15:21:41.882Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "VueloInternacional.cs",
-              "DocumentMoniker": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#Avanzado1\\ConsoleApp1\\PracticaDelegadoEventos\\VueloInternacional.cs",
-              "RelativeDocumentMoniker": "PracticaDelegadoEventos\\VueloInternacional.cs",
-              "ToolTip": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#Avanzado1\\ConsoleApp1\\PracticaDelegadoEventos\\VueloInternacional.cs",
-              "RelativeToolTip": "PracticaDelegadoEventos\\VueloInternacional.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T15:21:40.16Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#Avanzado1\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\OneDrive\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#Avanzado1\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
-              "ToolTip": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#Avanzado1\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\chris\\OneDrive\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#Avanzado1\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T15:21:28.831Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#Avanzado1\\ConsoleApp1\\PracticaDelegadoEventos\\Program.cs",
-              "RelativeDocumentMoniker": "PracticaDelegadoEventos\\Program.cs",
-              "ToolTip": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#Avanzado1\\ConsoleApp1\\PracticaDelegadoEventos\\Program.cs",
-              "RelativeToolTip": "PracticaDelegadoEventos\\Program.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAQwEsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T18:29:50.438Z",
+              "WhenOpened": "2025-10-30T03:20:32.468Z",
               "EditorCaption": ""
             }
           ]

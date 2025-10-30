@@ -9,3 +9,14 @@ C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS C
 C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado1\ConsoleApp1\PracticaEventosEventHandlerNet\obj\Debug\Practica.AB850A17.Up2Date
 C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado1\ConsoleApp1\PracticaEventosEventHandlerNet\obj\Debug\PracticaEventosEventHandlerNet.exe
 C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado1\ConsoleApp1\PracticaEventosEventHandlerNet\obj\Debug\PracticaEventosEventHandlerNet.pdb
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado1\ConsoleApp1\PracticaEventosEventHandlerNet\bin\Debug\PracticaEventosEventHandlerNet.exe.config
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado1\ConsoleApp1\PracticaEventosEventHandlerNet\bin\Debug\PracticaEventosEventHandlerNet.exe
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado1\ConsoleApp1\PracticaEventosEventHandlerNet\bin\Debug\PracticaEventosEventHandlerNet.pdb
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado1\ConsoleApp1\PracticaEventosEventHandlerNet\bin\Debug\PracticaEventos.exe
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado1\ConsoleApp1\PracticaEventosEventHandlerNet\bin\Debug\PracticaEventos.pdb
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado1\ConsoleApp1\PracticaEventosEventHandlerNet\bin\Debug\PracticaEventos.exe.config
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado1\ConsoleApp1\PracticaEventosEventHandlerNet\obj\Debug\PracticaEventosEventHandlerNet.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado1\ConsoleApp1\PracticaEventosEventHandlerNet\obj\Debug\PracticaEventosEventHandlerNet.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado1\ConsoleApp1\PracticaEventosEventHandlerNet\obj\Debug\Practica.AB850A17.Up2Date
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado1\ConsoleApp1\PracticaEventosEventHandlerNet\obj\Debug\PracticaEventosEventHandlerNet.exe
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado1\ConsoleApp1\PracticaEventosEventHandlerNet\obj\Debug\PracticaEventosEventHandlerNet.pdb

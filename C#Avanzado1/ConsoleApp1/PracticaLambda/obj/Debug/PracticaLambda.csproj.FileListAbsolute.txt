@@ -5,3 +5,10 @@ C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS C
 C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado1\ConsoleApp1\PracticaLambda\bin\Debug\PracticaLambda.pdb
 C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado1\ConsoleApp1\PracticaLambda\obj\Debug\PracticaLambda.exe
 C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado1\ConsoleApp1\PracticaLambda\obj\Debug\PracticaLambda.pdb
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado1\ConsoleApp1\PracticaLambda\bin\Debug\PracticaLambda.exe.config
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado1\ConsoleApp1\PracticaLambda\bin\Debug\PracticaLambda.exe
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado1\ConsoleApp1\PracticaLambda\bin\Debug\PracticaLambda.pdb
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado1\ConsoleApp1\PracticaLambda\obj\Debug\PracticaLambda.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado1\ConsoleApp1\PracticaLambda\obj\Debug\PracticaLambda.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado1\ConsoleApp1\PracticaLambda\obj\Debug\PracticaLambda.exe
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#Avanzado1\ConsoleApp1\PracticaLambda\obj\Debug\PracticaLambda.pdb
