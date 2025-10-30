@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\chris\\OneDrive\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#Avanzado1\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A86FEB8E-B43D-4288-A619-4703AF2B56F4}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\chris\\onedrive\\documents\\cursos coderhouse\\c#denoemileon elearning\\c#avanzado1\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A86FEB8E-B43D-4288-A619-4703AF2B56F4}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6959AEC3-20B9-40F1-BD53-7461BA209E43}|PracticaLambda\\PracticaLambda.csproj|c:\\users\\chris\\onedrive\\documents\\cursos coderhouse\\c#denoemileon elearning\\c#avanzado1\\consoleapp1\\practicalambda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6959AEC3-20B9-40F1-BD53-7461BA209E43}|PracticaLambda\\PracticaLambda.csproj|solutionrelative:practicalambda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,13 +44,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\chris\\OneDrive\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#Avanzado1\\ConsoleApp1\\ConsoleApp1\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
-              "ToolTip": "C:\\Users\\chris\\OneDrive\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#Avanzado1\\ConsoleApp1\\ConsoleApp1\\Program.cs",
-              "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\chris\\OneDrive\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#Avanzado1\\ConsoleApp1\\PracticaLambda\\Program.cs",
+              "RelativeDocumentMoniker": "PracticaLambda\\Program.cs",
+              "ToolTip": "C:\\Users\\chris\\OneDrive\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#Avanzado1\\ConsoleApp1\\PracticaLambda\\Program.cs",
+              "RelativeToolTip": "PracticaLambda\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T03:20:32.468Z",
+              "WhenOpened": "2025-10-30T03:23:27.801Z",
               "EditorCaption": ""
             }
           ]

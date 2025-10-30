@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("3_OperadoresFiltrarOrdAgrupar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea246c1e31f61e4d80bdaa40b698e7fdefc3c64c")]
 [assembly: System.Reflection.AssemblyProductAttribute("3_OperadoresFiltrarOrdAgrupar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("3_OperadoresFiltrarOrdAgrupar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

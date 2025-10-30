@@ -12,3 +12,18 @@ C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS C
 C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\2_2EncadenamientosOperConsulta\obj\Debug\net8.0\2_2EncadenamientosOperConsulta.pdb
 C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\2_2EncadenamientosOperConsulta\obj\Debug\net8.0\2_2EncadenamientosOperConsulta.genruntimeconfig.cache
 C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\2_2EncadenamientosOperConsulta\obj\Debug\net8.0\ref\2_2EncadenamientosOperConsulta.dll
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\2_2EncadenamientosOperConsulta\bin\Debug\net8.0\2_2EncadenamientosOperConsulta.exe
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\2_2EncadenamientosOperConsulta\bin\Debug\net8.0\2_2EncadenamientosOperConsulta.deps.json
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\2_2EncadenamientosOperConsulta\bin\Debug\net8.0\2_2EncadenamientosOperConsulta.runtimeconfig.json
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\2_2EncadenamientosOperConsulta\bin\Debug\net8.0\2_2EncadenamientosOperConsulta.dll
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\2_2EncadenamientosOperConsulta\bin\Debug\net8.0\2_2EncadenamientosOperConsulta.pdb
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\2_2EncadenamientosOperConsulta\obj\Debug\net8.0\2_2EncadenamientosOperConsulta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\2_2EncadenamientosOperConsulta\obj\Debug\net8.0\2_2EncadenamientosOperConsulta.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\2_2EncadenamientosOperConsulta\obj\Debug\net8.0\2_2EncadenamientosOperConsulta.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\2_2EncadenamientosOperConsulta\obj\Debug\net8.0\2_2EncadenamientosOperConsulta.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\2_2EncadenamientosOperConsulta\obj\Debug\net8.0\2_2EncadenamientosOperConsulta.sourcelink.json
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\2_2EncadenamientosOperConsulta\obj\Debug\net8.0\2_2EncadenamientosOperConsulta.dll
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\2_2EncadenamientosOperConsulta\obj\Debug\net8.0\refint\2_2EncadenamientosOperConsulta.dll
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\2_2EncadenamientosOperConsulta\obj\Debug\net8.0\2_2EncadenamientosOperConsulta.pdb
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\2_2EncadenamientosOperConsulta\obj\Debug\net8.0\2_2EncadenamientosOperConsulta.genruntimeconfig.cache
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\2_2EncadenamientosOperConsulta\obj\Debug\net8.0\ref\2_2EncadenamientosOperConsulta.dll

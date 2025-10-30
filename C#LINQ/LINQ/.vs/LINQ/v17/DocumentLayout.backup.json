@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#LINQ\\LINQ\\",
+  "WorkspaceRootPath": "C:\\Users\\chris\\OneDrive\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#LINQ\\LINQ\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{79BA6412-3A61-4C16-911A-8B0BA5701F56}|..\\3_OperadoresFiltrarOrdAgrupar\\3_OperadoresFiltrarOrdAgrupar.csproj|c:\\users\\christian.quiroga\\onedrive - wisetech global pty ltd\\documents\\cursos coderhouse\\c#denoemileon elearning\\c#linq\\3_operadoresfiltrarordagrupar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4967F11E-1253-4EA1-83B6-DACAFE0148CA}|..\\2_2EncadenamientosOperConsulta\\2_2EncadenamientosOperConsulta.csproj|c:\\users\\chris\\onedrive\\documents\\cursos coderhouse\\c#denoemileon elearning\\c#linq\\2_2encadenamientosoperconsulta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB7A82B9-FC60-4586-8392-1CFFE3B96D52}|LINQ.csproj|c:\\users\\chris\\onedrive\\documents\\cursos coderhouse\\c#denoemileon elearning\\c#linq\\linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB7A82B9-FC60-4586-8392-1CFFE3B96D52}|LINQ.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,8 +17,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
@@ -32,21 +40,34 @@
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#LINQ\\3_OperadoresFiltrarOrdAgrupar\\Program.cs",
-              "RelativeDocumentMoniker": "..\\3_OperadoresFiltrarOrdAgrupar\\Program.cs",
-              "ToolTip": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#LINQ\\3_OperadoresFiltrarOrdAgrupar\\Program.cs",
-              "RelativeToolTip": "..\\3_OperadoresFiltrarOrdAgrupar\\Program.cs",
-              "ViewState": "AgIAALQAAAAAAAAAAAAQwOoAAAAzAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\chris\\OneDrive\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#LINQ\\2_2EncadenamientosOperConsulta\\Program.cs",
+              "RelativeDocumentMoniker": "..\\2_2EncadenamientosOperConsulta\\Program.cs",
+              "ToolTip": "C:\\Users\\chris\\OneDrive\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#LINQ\\2_2EncadenamientosOperConsulta\\Program.cs",
+              "RelativeToolTip": "..\\2_2EncadenamientosOperConsulta\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T13:21:28.593Z",
+              "WhenOpened": "2025-10-30T03:38:05.753Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\OneDrive\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#LINQ\\LINQ\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\chris\\OneDrive\\Documents\\CURSOS CODERHOUSE\\C#deNoemiLeon Elearning\\C#LINQ\\LINQ\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T03:37:37.251Z",
+              "EditorCaption": ""
             }
           ]
         },

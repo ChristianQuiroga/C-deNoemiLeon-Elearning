@@ -5,3 +5,11 @@ C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS C
 C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
 C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\LINQ\obj\Debug\LINQ.exe
 C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\LINQ\obj\Debug\LINQ.pdb
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\LINQ\bin\Debug\LINQ.exe
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\LINQ\bin\Debug\LINQ.pdb
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\LINQ\obj\Debug\LINQ.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\LINQ\obj\Debug\LINQ.exe.config
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\LINQ\obj\Debug\LINQ.exe
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#deNoemiLeon Elearning\C#LINQ\LINQ\obj\Debug\LINQ.pdb
